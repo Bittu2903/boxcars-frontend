@@ -50,6 +50,6 @@ A modern, responsive car search application built with React, TypeScript, and Ta
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/car-search-app.git
-   cd car-search-app
+   cd boxcars-frontend
    npm install
    npm start
